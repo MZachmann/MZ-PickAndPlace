@@ -31,5 +31,6 @@ So, to create a 'plastic' (green) part you
 
 This lets you both adjust the geometry of the part and the negative geometry (holes) of the part.
 
+![Rhino3d Parts View](RhinoPartsView.jpg)
 
 
