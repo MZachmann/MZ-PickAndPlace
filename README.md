@@ -19,4 +19,17 @@ and has old attempts on it - so for now just this.
 
 ![Rhino3d View](RhinoView.jpg)
 
+## Update: Feb 17, 2021
+There has been more interest than I expected in this, so I'm adding the original parts file. It is very large and contains all of the pick and place machine parts in 'prototype' form. That is the part (possibly out of multiple parts, usually grouped) and then the holes - which are done in the Mask (dark blue) layer.
+
+So, to create a 'plastic' (green) part you 
+* select the prototype
+* copy it
+* paste all of it
+* union the pasted parts together to get a cohesive part
+* subtract out the grouped mask parts to produce the holes
+
+This lets you both adjust the geometry of the part and the negative geometry (holes) of the part.
+
+
 
