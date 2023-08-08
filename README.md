@@ -33,4 +33,7 @@ This lets you both adjust the geometry of the part and the negative geometry (ho
 
 ![Rhino3d Parts View](RhinoPartsView.jpg)
 
+There is now a Youtube video showing all of the parts and components as the machine was disassembled.[See here](https://youtu.be/ycFrFeo8eH8)
+
+
 
